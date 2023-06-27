@@ -4,3 +4,10 @@
 
 - 00 Razon Aurea
 - 01 Cantidad de Litros de Pintura
+
+# Navegación - Home
+Para regresar al Home del repositorio, use:
+
+```
+cd /workspaces/basicos.act4
+```
